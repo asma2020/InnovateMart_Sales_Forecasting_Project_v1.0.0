@@ -37,6 +37,7 @@ The data simulation creates a realistic retail environment with the following ch
 ├── data_simulation.py          # Data generation script
 ├── model_training.py           # Model training pipeline
 ├── streamlit_app.py           # Interactive dashboard
+├── run_pipeline.py            # Run complete pipeline 
 ├── requirements.txt           # Python dependencies
 ├── README.md                 # This file
 ├── innovatemart_sales_data.csv    # Generated dataset
@@ -53,8 +54,8 @@ The data simulation creates a realistic retail environment with the following ch
 
 ### Step 1: Clone the Repository
 ```bash
-git clone <repository-url>
-cd innovatemart-forecasting
+git clone https://github.com/asma2020/InnovateMart_Sales_Forecasting_Project_v1.0.0.git
+cd InnovateMart_Sales_Forecasting_Project_v1.0.0
 ```
 
 ### Step 2: Install Dependencies
