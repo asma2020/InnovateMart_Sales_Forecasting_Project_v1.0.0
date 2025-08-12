@@ -138,9 +138,9 @@ The simulation implements realistic business scenarios:
 
 ### Performance Metrics
 The model achieves the following performance on validation data:
-- **SMAPE**: ~8-12% across different stores
-- **MAPE**: ~10-15% average percentage error
-- **MAE**: $500-1500 depending on store sales volume
+- **SMAPE**: 
+- **MAPE**:
+- **MAE**: 
 
 ## 🛠️ Customization Options
 
